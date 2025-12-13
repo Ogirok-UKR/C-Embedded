@@ -1,10 +1,19 @@
-# C-Embedded
-Varinat 10 
+# Кузьомко Кирило ІК-31
 
-Lab 3 data
-5.83kHz    (RED)->33%    (GREEN)->77%    (ORANGE)->68%    (BLUE)->50%
+## Варіант 10
 
-LABS Videos link
-https://drive.google.com/drive/folders/1ulfdirCdmMmGJNKyai4qsAjhLymhIu-4?usp=sharing
 
-https://drive.google.com/drive/folders/1lJ_sCgMMFc3peiEge2F586py-ECMX3s-?usp=sharing
+
+
+## Відео виконання лабораторних робіт
+* https://drive.google.com/drive/folders/1ulfdirCdmMmGJNKyai4qsAjhLymhIu-4?usp=sharing
+    * LAB1
+* https://drive.google.com/drive/folders/1lJ_sCgMMFc3peiEge2F586py-ECMX3s-?usp=sharing
+    * LAB2, LAB3
+
+## Данні для завдання 3
+
+| Freq, kHz| RED, % | GREEN, % | ORANGE, % | BLUE, % |
+| ---------|:------:|:--------:|:---------:|:-------:|
+|    5,83  |   33   |    77    |     68    |   50    |
+
