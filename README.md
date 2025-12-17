@@ -9,7 +9,7 @@
 * https://drive.google.com/drive/folders/1ulfdirCdmMmGJNKyai4qsAjhLymhIu-4?usp=sharing
     * LAB1
 * https://drive.google.com/drive/folders/1lJ_sCgMMFc3peiEge2F586py-ECMX3s-?usp=sharing
-    * LAB2, LAB3
+    * LAB2, LAB3, LAB4
 
 ## Данні для завдання 3
 
